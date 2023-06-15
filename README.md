@@ -10,18 +10,20 @@ I have a wide range of interests. Here are a few areas that I'm particularly pas
 - Software development methodologies: Mainly learning how software teams for large code bases work, so experiemnted with GitHub actions.
 - Cybersecurity: Involves networking, pen testing, malware analysis, reverse engineering.
 - Android App Development: Learning Kotlin as well as more recently, Jetpack Compose.
+- iOs App Development: Learning Swift and SwiftUI recently.
 
 ## What you'll find here
 In my GitHub repositories, you'll find a collection of projects that showcase my skills and expertise. Here's a glimpse of what you can explore:
 
 - aaf-internal-notes: Deployed a local JS notes application to the cloud using AWS resources. Automated the whole process using a CI/CD pipeline.
 - TunesTogether:  As part of my A-Level Computer Science coursework (NEA), I attempted to develop a colloborative music listening Android application in Kotlin. This involved developing the UI in XML, the backend logic in Kotlin and using database services such as Firebase.
-- NCCD-CW3: This includes creating a whole network from scratch for a local charity organisation, involving subnetting, segmentation, zoning as well as implementing NAT and firewall rules between different machines on the network for specific user security priviledges.
+- NCCD-CW3: This includes creating a whole network from scratch for a local charity organisation, involving subnetting, segmentation, and zoning as well as implementing NAT and firewall rules between different machines on the network for specific user security privileges.
+- Codelabs: Followed through tutorials from the official companies of Android and iOS app development, adding my own changes when necessary.
 
 Feel free to explore these projects, clone them, and provide feedback. I'm always open to collaboration and learning from the community.
 
 ## Get in touch
-I love connecting with fellow developers, enthusiasts, and anyone interested in my work. If you have any questions, suggestions, or just want to say hi, you can reach me through the following channels:
+I love connecting with fellow developers, enthusiasts, and anyone interested in my work. If you have any questions, or suggestions, or just want to say hi, you can reach me through the following channels:
 
 - Email: preetham.mervin@gmail.com
 - LinkedIn: https://www.linkedin.com/in/preetham-ananthkumar-1810781b1/
