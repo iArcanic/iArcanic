@@ -10,7 +10,7 @@ I have a wide range of interests. Here are a few areas that I'm particularly pas
 - Software development methodologies: Mainly learning how software teams for large code bases work, so experiemnted with GitHub actions.
 - Cybersecurity: Involves networking, pen testing, malware analysis, reverse engineering.
 - Android App Development: Learning Kotlin as well as more recently, Jetpack Compose.
-- iOs App Development: Learning Swift and SwiftUI recently.
+- iOS App Development: Learning Swift and SwiftUI recently.
 
 ## What you'll find here
 In my GitHub repositories, you'll find a collection of projects that showcase my skills and expertise. Here's a glimpse of what you can explore:
