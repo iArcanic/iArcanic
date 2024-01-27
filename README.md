@@ -1,10 +1,9 @@
-# Welcome to my GitHub Profile!
-Hey there! 👋🏼 Welcome to my GitHub profile! I'm excited to have you here! Let me take a moment to introduce myself.
+![iArcanic's GitHub stats](https://github-readme-stats.vercel.app/api?username=iarcanic&show_icons=true&theme=neon)
 
-## About me
+# About me
 My name is Preetham Ananthkumar, and I'm an enthusiast for all things coding. I have always been fascinated by technology ever since a young age and its potential to bring positive change to the world. With a background in coding over the years, whether it be from high school all the way through university, I strive to leverage my skills and knowledge to create innovative solutions that make a difference. I am now currently studying a degree in Cybersecurity.
 
-## My interests
+# My interests
 I have a wide range of interests. Here are a few areas that I'm particularly passionate about:
 
 - Software development methodologies: Mainly learning how software teams for large code bases work, so experimented with GitHub actions.
@@ -12,7 +11,7 @@ I have a wide range of interests. Here are a few areas that I'm particularly pas
 - Android App Development: Learning Kotlin as well as more recently, Jetpack Compose.
 - iOS App Development: Learning Swift and SwiftUI recently.
 
-## What you'll find here
+# What you'll find here
 In my GitHub repositories, you'll find a collection of projects that showcase my skills and expertise. Here's a glimpse of what you can explore:
 
 - aaf-internal-notes: Deployed a local JS notes application to the cloud using AWS resources. Automated the whole process using a CI/CD pipeline.
